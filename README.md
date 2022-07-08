@@ -1,4 +1,4 @@
-#Sorting on planet Twisted-3-7
+# Sorting on planet Twisted-3-7
 
 QUESTION:
 There is a planet... in a galaxy far far away. It is exactly like our planet, but it has one difference: #The values of the digits 3 and 7 are twisted. Our 3 means 7 on the planet Twisted-3-7. And 7 means 3.
